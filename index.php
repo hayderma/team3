@@ -15,7 +15,7 @@ elseif (!$x){
 ?> 
 <html>
     <head>
-  <title>FabLab Queue System </title>
+  <title>FabLab Queue System_t </title>
 </head>
     <h1>FabLab Queue System</h1>
     <link rel="stylesheet" type="text/css" href="index_style.css" />
